@@ -4,4 +4,5 @@ A web application to book hotels in different cites depending on the persons req
 Extract all files into localhost
 Extract images.tar file in localhost
 Make sure that mysql requires no Authentication to the user
+import mydb.sql with database name mydb
 Open it in Browser
